@@ -1,0 +1,59 @@
+We continue learning Python by covering the entire Python documentation's official Python Tutorial (https://docs.python.org/3/tutorial/) with lots of examples and learning resources.
+
+
+We've already covered quite a bit if you've been following along we've installed Anaconda, used pip to change the theme of jupyter notebooks. We learned the SHIFT + ENTER keyboard shortcut to run code and we've written our first lines of code using strings. Understanding Strings, numbers and our final topic today Lists will get you to the end of Chapter 3 of this tutorial and a bit into Chapter 5 on data structures in Python. 
+
+
+Today we'll cover 
+
+- What is a list? 
+- List methods
+- List comprehensions - first example of writing Pythonic code 
+- Collections in Python (lists, sets, tuples and dictionaries)
+
+
+What is a list? You can read about lists here .https://docs.python.org/3/tutorial/introduction.html#lists. According to the documentation a list is a sequence data type for storing a comma separated list of values. I like my working definiton better which is a list is an ordered sequence of items. 
+
+Unlike strings which we covered previously, you can modify lists. This is what is called a mutable data type. They're also very flexible and versatile and you can store a mixture of data types (strings, numbers even other python objects). You can eveh have a list of lists - this is what's called a Matrix. 
+
+matrix = [
+...     [1, 2, 3, 4],
+...     [5, 6, 7, 8],
+...     [9, 10, 11, 12],
+... ]
+
+List Methods
+
+The official Python tutorial talks about several different methods for working with lists. We covered methods for working with strings last time and you may recognize some of them like index which also applies to lists. The other thing that is similar to strings is slicing. We can slice both lists and strings. Slicing is a very important concept in Python so take a look at the lab notebook and practice working with slicing.
+
+One extremely important detail that is glossed over in the docs is that when we're counting items in our list, we start counting from 0. It's natural to count from 1 but the computer starts at 0. For example, the first item in a list is the 0th element, it has index 0 and can be accessed as my_list[0] not my_list[1]. If this doesn't make sense to you take a look at the lab.
+
+You methods to sort a list (rearrange the items in some ordered way), to change the list by adding or popping elements off the list or to extend the list with another list.
+
+There are some subtle aspects of lists like understanding the difference between del and remove which are both ways to remove elements from a list.
+
+List Comprehensions: 
+
+I'd take a look at Data camp for a good tutorial on writing list comprehensions (https://www.datacamp.com/community/tutorials/python-list-comprehension). Basically a list comprehension is a way to replace for loops and write more Pythonic code. For example, you can write a list comprehension to create a list on the fly of all even numbers by using 
+
+[x for x in range(10) if x % 2 == 0]
+
+Challenge: Write the matrix above using a list comprehension to transpose the matrix. 
+
+Other data structurs in Python:
+
+Lists are very versatile. Unlike arrays in other languages, you can put pretty much anything you want in a list. They're a truly fundamental data type. You can even use a list to simulate a stack or a queque which shows just how fundamental a data structure a list is. There are other data strucutres in Python and each one may be better suited to a different problem. 
+
+Data structures in Python include tuples, sets and dictionaries. If you want an advanced look at data structures in Python take a look at this tutorial on collections, the module in Python that contains all these data structures including lists https://stackabuse.com/introduction-to-pythons-collections-module/.
+
+
+Thanks for reading and happy coding
+-Dayne
+
+
+
+
+
+git remote add origin https://github.com/SQLCamp/PythonBootcamp.git
+git push -u origin master
+

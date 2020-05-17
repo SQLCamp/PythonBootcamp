@@ -1,0 +1,40 @@
+Strings in Python: Working with Textual Data
+
+Welcome to our first lab on Strings in Python. What is a string? It's a sequence of characters and one of the two fundamental types of data we'll be looking at in this course (the other which I will cover soon is numerical data). In fact this whole paragraph can be considered a string.
+
+Text is everywhere, as data scientists you'll work on problems where you might need to process a large volume of text based data (often called semi-structured or unstructured data).
+
+A typical scenario where you might do this in real world is if you were asked to process customer review data, maybe run some type of sentiment analysis workflow on this data and correlate sentiment with business operations. It might be seem basic but by understanding the exact string methods we'll be looking at in this lab you will have the foundation for running type of analysis (which we will look at at some point in this course).
+
+I'm going to be following the official Python documentation closely and adapting it to notebooks/data science so if you're just beginning your Python journey I recommend you look at this official tutorial before you begin the lab it overs the basics of print statements and some odds and ends: https://docs.python.org/3/tutorial/
+
+In our string lab we'll be looking at "string methods" and 1 powerful technique called slicing strings.
+
+What is a method? Let's keep it simple and think of a method as something you can do with your string. For example there may be a method to reverse the characters in a string, there may be another method to transform your string to upper case and there may be another method to split your string up into component parts.
+
+The methods we'll be looking at are the ones you're going to use most often in data science
+
+    len (finding length of string - try it)
+    split/join
+    upper/lower
+    Index / slicing strings (very important to extract information from strings and do things like reverse strings)
+
+
+I've created a notebook called lab2.ipynb for you where each cell uses one of these methods and how to call them with dot notation - meaning string.method(). Pay close attention to how we use these methods as the object.method() notation is part of a very important concept we'll build up to called OOP (Object Oriented Programming).
+
+I encourage you to do some googling and become comfortable with these methods, we'll use them throughout the course. I have a very brief video walk-through as well if you get stuck.
+
+
+Lab 2 Challenge: Can you  extract information from a string?
+
+Slicing is a very powerful technique - let's look at how
+
+In the lab notebook you have a string "Alberta is a province in Canada". Your challenge is to use string methods to extract data from this string. Your solution should extract the country "Canada" from the string. You can do this in 2 steps:
+
+Step 1: Find the index (numerical position) of Canada in the string
+
+Step 2: Use the numerical position and another technique either slicing or if you're more advanced regular expressions (not covered here) to extract the word "Canada"
+
+Bonus: Can you use slicing to reverse the original string? Hint: Try s[::-1]
+
+If you need help on any of this feel free to reach out.
