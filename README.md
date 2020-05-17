@@ -57,13 +57,31 @@ Welcome to the Syllabus for our Python course! This repository is a reflection o
 
 ## Unit One: Getting Started in Python with Anaconda
 
-We look at the Anaconda distribution for Python and install it 
+We look at the Anaconda distribution for Python and install it. We cover keyboard shortcuts and changing your jupyter theme. We also look at PIP the Python package manager. 
 
-1. COMING SOON
+1. [Lab] (https://github.com/SQLCamp/PythonBootcamp/blob/master/Strings/notebooks/lab2.ipynb)
 
-## Unit Two: Strings in Python
+## Unit Two: Strings In Python
 
-React is a powerful Javascript library used to build more complicated web applications.
+A string is a sequence of characters. The index of each character is counted starting from 0. We cover string slicing,
+concat strings, length of string (len), string methods, reversing a string using slicing: 
 
-1. [Strings Lab] (https://github.com/SQLCamp/PythonBootcamp/tree/master/Strings/notebooks)
+1. [Strings Lab] (https://github.com/SQLCamp/PythonBootcamp/blob/master/Strings/notebooks/lab2.ipynb)
+2  [W3 School Tutorial] (https://www.w3schools.com/python/python_strings.asp)
+
+## Unit Three: Numbers In Python
+
+We look at the 3 types of numerics in Python: integers, floats and complex numbers. We look at how we add, subtract, multiply, exponentiate and perform arithmetic with numbers. We look at how we can cast numbers using int(), float() and complex() built-ins.
+
+1. [Strings Lab] (https://github.com/SQLCamp/PythonBootcamp/blob/master/Strings/notebooks/lab2.ipynb)
+2  [W3 School Tutorial] (https://www.w3schools.com/python/python_strings.asp)
+
+## Unit Four: Lists In Python
+
+We take a look at our first Pythonic code. We take a look at writing list comprehensions as an alternative to for loops. We write our first list comprehensions.
+
+
+1. [Strings Lab] (https://github.com/SQLCamp/PythonBootcamp/blob/master/Strings/notebooks/lab2.ipynb)
+2  [W3 School Tutorial] (https://www.w3schools.com/python/python_strings.asp)
+
 
