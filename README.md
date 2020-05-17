@@ -59,7 +59,7 @@ Welcome to the Syllabus for our Python course! This repository is a reflection o
 
 We look at the Anaconda distribution for Python and install it. We cover keyboard shortcuts and changing your jupyter theme. We also look at PIP the Python package manager. 
 
-1. [Lab] (https://github.com/SQLCamp/PythonBootcamp/blob/master/Strings/notebooks/lab2.ipynb)
+1. [Lab] (https://github.com/SQLCamp/PythonBootcamp/blob/master/Lab1/Solution_Lab1.ipynb)
 
 ## Unit Two: Strings In Python
 
@@ -75,13 +75,16 @@ We look at the 3 types of numerics in Python: integers, floats and complex numbe
 
 1. [Strings Lab] (https://github.com/SQLCamp/PythonBootcamp/blob/master/Strings/notebooks/lab2.ipynb)
 2  [W3 School Tutorial] (https://www.w3schools.com/python/python_strings.asp)
+3. [Cheat sheet for Numbers in Python] (https://github.com/SQLCamp/PythonBootcamp/blob/master/Numbers/numbers_cheatsheet.pdf)
 
 ## Unit Four: Lists In Python
 
 We take a look at our first Pythonic code. We take a look at writing list comprehensions as an alternative to for loops. We write our first list comprehensions.
 
 
-1. [Strings Lab] (https://github.com/SQLCamp/PythonBootcamp/blob/master/Strings/notebooks/lab2.ipynb)
-2  [W3 School Tutorial] (https://www.w3schools.com/python/python_strings.asp)
+1. [Lists Lab] (https://github.com/SQLCamp/PythonBootcamp/blob/master/Lists%20and%20Data%20Structures/notebooks/lists_tutorial.ipynb)
+2  [Data Camp List Comprehension Tutorial] (https://www.datacamp.com/community/tutorials/python-list-comprehension)
+3. [Programiz Tutorial on Zipping Lists] (https://www.programiz.com/python-programming/methods/built-in/zip)
+4. [Intro to Python Collections] (https://stackabuse.com/introduction-to-pythons-collections-module/)
 
 
