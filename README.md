@@ -65,5 +65,5 @@ We look at the Anaconda distribution for Python and install it
 
 React is a powerful Javascript library used to build more complicated web applications.
 
-1. COMING SOON
+1. [Strings Lab] (https://github.com/SQLCamp/PythonBootcamp/tree/master/Strings/notebooks)
 
