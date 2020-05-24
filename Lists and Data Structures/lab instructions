@@ -1,5 +1,4 @@
-We continue learning Python by covering the entire Python documentation's official Python Tutorial (https://docs.python.org/3/tutorial/) with lots of examples and learning resources.
-
+We continue learning Python by covering the entire Python documentation's official Python Tutorial (https://docs.python.org/3/tutorial/) adapted to data science. 
 
 We've already covered quite a bit if you've been following along we've installed Anaconda, used pip to change the theme of jupyter notebooks. We learned the SHIFT + ENTER keyboard shortcut to run code and we've written our first lines of code using strings. Understanding Strings, numbers and our final topic today Lists will get you to the end of Chapter 3 of this tutorial and a bit into Chapter 5 on data structures in Python. 
 
@@ -54,6 +53,6 @@ Thanks for reading and happy coding
 
 
 
-git remote add origin https://github.com/SQLCamp/PythonBootcamp.git
-git push -u origin master
+git remote add origin12 https://github.com/SQLCamp/PythonBootcamp.git
+git push -u origin12 master
 
