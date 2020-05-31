@@ -1,0 +1,35 @@
+This week we're going to take an in depth look at functions. This is also the first time we're going to need to know a convention in Python: Python is an indented langauge.
+
+ I have created a lab notebook like every week where you can run the code and get hands on experience. The lab corresponds to the Python docs pretty well. We're going to cover:
+
+1. What is a function and why would I use one?
+2. Syntax and conventions 
+3. Common mistakes when writing functions
+
+Finally I have some challenge problems where you're going to write your own function using everything we've covered so far. The function will take a sentence and return the last word in that sentence. 
+
+The second challenge problem at end of the lab is to use recursion. A sample solution is provided but you should write your own. I created some assert statements you can copy in your own notebook and use to test if your function passed (the assert will throw an error if your function fails on a test case).
+
+Why use functions
+
+You may have heard programmers say things like, don't duplicate code. A fundamental principle in Python programming is, "Don't Repeat Yourself". This means, if you find yourself writing the same code, to perform the same action more than once, you should wrap that code inside a function and then call that function elsewhere in your code. This makes your code easier to read, more modular, easier to maintain and debug and well on your way to writing professional looking code.
+
+Functions also have another advantage. Functions mean less work for us as programmers and reduce the chances that we'll make an error. If an error is discovered we also only have to change it in one place in our code, which makes fixing bugs a lot easier.
+
+
+Everything else is covered in the lab, so take a look and you'll get to apply what you've learned so far with strings, splitting strings, slicing and how to wrap all that code inside a function. 
+
+https://github.com/SQLCamp/PythonBootcamp/tree/master/Functions%20
+
+https://forms.gle/XAkAo9V9ZyG2V7CF8
+
+
+* snackoverflow has quit (Ping timeout: 260 seconds)
+<Feed[bot]> [TDS] Decision Trees in Machine Learning → https://medium.com/p/d974efc37779
+<Feed[bot]> [TDS] Launching Into Uncertainty — 6 Smart Steps to Future-Proof Your ML Models → https://medium.com/p/bdebbccc6c43
+<Feed[bot]> [TDS] A Simplified approach using PyCaret for Anomaly Detection → https://medium.com/p/7d33aca3f066
+<Feed[bot]> [TDS] Build Your Fully Configurable Interface to Create MNIST-like Dataset with Python in 10 Minutes → https://medium.com/p/43ab414a875e
+<Feed[bot]> [TDS] Text Mining with R: Gathering and Cleaning Data → https://medium.com/p/8f8b0d65e67c
+<Feed[bot]> [Medium] The Complete Guide to Linear Regression Analysis → https://medium.com/p/38a421a89dc2
+<Feed[bot]> [Medium] An Intuitive Visual Interpretability For Convolutional Neural Networks → https://medium.com/p/9630007c5857
+<Feed[bot]> [Medium] Background Extraction from videos using Gaussian Mixture Models → https://medium.com/p/6e11d743f932
