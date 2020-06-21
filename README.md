@@ -1,9 +1,13 @@
 # Final Proect (Sunday 21, 2020)
 
-Final project notebooks: 
+Final project instructions:  Choose one of the final projects below (Pandas tutorial or anommaly detection (advanced)). These notbooks don't require data sets as toy data sets are generated in the notebooks.
 
-https://github.com/jakevdp/PythonDataScienceHandbook (Tutorials on Pandas and data science)
-https://github.com/albertcthomas/anomaly_detection_lab/blob/master/notebook_correction.ipynb (Best Anomaly detection methods notebook)
+Tutorials on Pandas and data science:
+
+https://github.com/jakevdp/PythonDataScienceHandbook 
+
+Best Anomaly detection methods notebooks:
+https://github.com/albertcthomas/anomaly_detection_lab/blob/master/notebook_correction.ipynb 
 
 Datasets: I've picked notebooks that don't require datasets. The anomaly detection notebook uses a toy data set generated in the Jupyter notebook using a guassian mixutre model.
 
