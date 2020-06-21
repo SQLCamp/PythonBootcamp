@@ -1,3 +1,12 @@
+# Final Proect (Sunday 21, 2020)
+
+Final project notebooks: 
+
+https://github.com/jakevdp/PythonDataScienceHandbook (Tutorials on Pandas and data science)
+https://github.com/albertcthomas/anomaly_detection_lab/blob/master/notebook_correction.ipynb (Best Anomaly detection methods notebook)
+
+Datasets: I've picked notebooks that don't require datasets. The anomaly detection notebook uses a toy data set generated in the Jupyter notebook using a guassian mixutre model.
+
 # Syllabus
 
 Welcome to the Syllabus for our Python course! This repository is a reflection of the current status of the curriculum. Just like the technology we teach, the syllabus is ever evolving and adapting to suit the needs of the user. Help us make our syllabus better by submitting a Pull Request to fix any errors, expand definitions, or further explain concepts (workbooks, labs, notebooks, videos and code tutorials are all accepted).
